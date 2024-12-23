@@ -14,7 +14,7 @@ Sejam bem-vindos ao meu perfil
 
 .📫 How to reach me: email: jailtonaguiar@gmail.com
 
-
+![imagem](https://myoctocat.com/assets/images/base-octocat.svg)
 <!---
 JAENED13/JAENED13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
