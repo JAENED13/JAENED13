@@ -1,22 +1,40 @@
-<!--cabeçalho--!>
+<!--cabeçalho-->
 
-<h1>Sejam bem-vindos ao meu perfil!</h1>
+<h1 align="center">Sejam bem-vindos ao meu perfil!</h1>
 
-<h2>👋 Hi, I'm Jailton</h2>
-<br>
+<h2 align="center">👋 Hi, I'm Jailton</h2>
 
-.👀 I’m interested in Python, HTML, CSS, JavaScript, and Power BI
-<br>
+---
 
-.🌱 I’m currently learning HTML, Python, and GitHub on DIO. I am a Data Science student.
-<br>
+## Sobre Mim
 
-.🌱 Graduated in Management Processes
-<br>
-.💞️ I’m looking to collaborate on any project..
-<br>
-.📫 How to reach me: email: jailtonaguiar@gmail.com
-<!---
-JAENED13/JAENED13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **Interesses:** Python, HTML, CSS, JavaScript, e Power BI
+- 🌱 **Atualmente Aprendendo:** HTML, Python, e GitHub na DIO. Estudante de Ciência de Dados.
+- 🎓 **Formação:** Graduado em Gestão de Processos
+- 💞️ **Colaborações:** Aberto a colaborar em qualquer projeto.
+- 📫 **Contato:** jailtonaguiar@gmail.com
+
+---
+
+## Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+---
+
+## Projetos
+
+- [Projeto 1](https://github.com/JAENED13/projeto1): Descrição breve do projeto 1.
+- [Projeto 2](https://github.com/JAENED13/projeto2): Descrição breve do projeto 2.
+
+---
+
+## Estatísticas do GitHub
+
+![JAENED13's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAENED13&show_icons=true&theme=radical)
+
+---
