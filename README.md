@@ -1,8 +1,9 @@
 <!--cabeçalho-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10A5F0&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Jailton+Aguiar;Bem-vindos+ao+meu+perfil)](https://git.io/typing-svg) 
 <h1 align="center">Sejam bem-vindos ao meu perfil!</h1>
 
-<h2 align="center">👋 Olá, sou o Jailton</h2>
 <!-- Adicione este estilo dentro da tag <style> para definir a cor do texto -->
 
 ---
@@ -44,5 +45,5 @@
 ## Estatísticas do GitHub
 
 ![JAENED13's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAENED13&show_icons=true&theme=radical)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10A5F0&height=120&section=footer"/>
 ---
