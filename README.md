@@ -2,8 +2,16 @@
 
 <h1 align="center">Sejam bem-vindos ao meu perfil!</h1>
 
-<h2 align="center">👋 Hi, I'm Jailton</h2>
+<h2 align="center">👋 Olá, sou o Jailton</h2>
+<!-- Adicione este estilo dentro da tag <style> para definir a cor do texto -->
+<style>
+  .custom-color {
+    color: #ff5733; /* Substitua pelo código da cor desejada */
+  }
+</style>
 
+<!-- Use a classe custom-color para aplicar a cor ao texto -->
+<p class="custom-color">Este texto terá a cor personalizada.</p>
 ---
 
 ## Sobre Mim
