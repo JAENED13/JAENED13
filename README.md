@@ -4,14 +4,7 @@
 
 <h2 align="center">👋 Olá, sou o Jailton</h2>
 <!-- Adicione este estilo dentro da tag <style> para definir a cor do texto -->
-<style>
-  .custom-color {
-    color: #ff5733; /* Substitua pelo código da cor desejada */
-  }
-</style>
 
-<!-- Use a classe custom-color para aplicar a cor ao texto -->
-<p class="custom-color">Este texto terá a cor personalizada.</p>
 ---
 
 ## Sobre Mim
@@ -21,7 +14,14 @@
 - 🎓 **Formação:** Graduado em Gestão de Processos
 - 💞️ **Colaborações:** Aberto a colaborar em qualquer projeto.
 - 📫 **Contato:** jailtonaguiar@gmail.com
+<style>
+  .custom-color {
+    color: #ff5733; /* Substitua pelo código da cor desejada */
+  }
+</style>
 
+<!-- Use a classe custom-color para aplicar a cor ao texto -->
+<p class="custom-color">Este texto terá a cor personalizada.</p>
 ---
 
 ## Tecnologias e Ferramentas
