@@ -45,5 +45,10 @@
 ## Estatísticas do GitHub
 
 ![JAENED13's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAENED13&show_icons=true&theme=radical)
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JAENED13}/count.svg" /></p> 
+<br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10A5F0&height=120&section=footer"/>
 ---
