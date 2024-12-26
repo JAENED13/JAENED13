@@ -30,9 +30,12 @@
 
 ## Projetos
 
-- [Projeto 1](https://github.com/JAENED13/projeto1): Descrição breve do projeto 1.
-- [Projeto 2](https://github.com/JAENED13/projeto2): Descrição breve do projeto 2.
-
+- [Projeto 1](https://github.com/JAENED13/Projetos.Diversos.git): Diversos (Python).
+- [Projeto 2](https://github.com/JAENED13/JAENED13.git): Readme.md.
+- [Projeto 3](https://github.com/JAENED13/Projeto_Python.git): Python.
+- [Projeto 4](https://github.com/JAENED13/Projetos-Html.git): Html.
+- [Projeto 5](https://github.com/JAENED13/Power-BI.git) Power BI.
+  
 ---
 
 ## Estatísticas do GitHub
