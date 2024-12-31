@@ -35,9 +35,9 @@
 - [Projeto 3](https://github.com/JAENED13/Projeto_Python.git): Python.
 - [Projeto 4](https://github.com/JAENED13/Projetos-Html.git): Html.
 - [Projeto 5](https://github.com/JAENED13/Power-BI.git) Power BI.
-- [Projeto 6](https://github.com/JAENED13/Projeto-PowerBI.git)) Power BI.
-- [Projeto 7](https://github.com/JAENED13/lab-aws-sagemaker-canvas-estoque.git))) AWS SageMaker Canvas.
-- [Projeto 8](https://github.com/JAENED13/estudos-logica-com-python.git)): Python.
+- [Projeto 6](https://github.com/JAENED13/Projeto-PowerBI.git) Power BI.
+- [Projeto 7](https://github.com/JAENED13/lab-aws-sagemaker-canvas-estoque.git) AWS SageMaker Canvas.
+- [Projeto 8](https://github.com/JAENED13/estudos-logica-com-python.git)) Python.
   
 ---
 
